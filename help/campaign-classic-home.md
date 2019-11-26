@@ -13,9 +13,9 @@ topic: Premium
 ## What's New
 
 * **[Privacy management](https://helpx.adobe.com/campaign/kb/campaign-privacy.html)**<br/>
-Learn how Adobe Campaign can help you with your Privacy compliance.
+Learn how Adobe Campaign can help you with your Privacy compliance
 
-* **[Tracking guide](https://helpx.adobe.com/campaign/kb/acc-tracking.html)**<br/>
+* **[Tracking basics](https://helpx.adobe.com/campaign/kb/acc-tracking.html)**<br/>
 Understand tracking capabilities in Campaign
 
 * **[Maintenance guide](https://helpx.adobe.com/campaign/kb/acc-maintenance.html)**<br/>
